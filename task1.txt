@@ -3,3 +3,5 @@ complete Automation
 mlops task 1
 
 using git + git Hub + jenkis
+
+we also integrate with docker 
